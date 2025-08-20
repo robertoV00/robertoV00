@@ -4,7 +4,7 @@
 <hl></hl>
 
 <h2>💫 About Me</h2>
-Hi! My name is Roberto, and I am passionate about frontend development and building engaging user experiences. With a sharp eye for design and a passion for clean, efficient code, I specialise in creating seamless web applications and interactive interfaces. I thrive on making ideas a reality by combining creativity and technical expertise. Whether I'm creating responsive websites, optimising performance, or researching the latest frontend technologies, I'm committed to providing high-quality solutions that exceed expectations. Explore my repositories to view some of my projects, and please contact me if you want to collaborate or have any queries. Let us work together to create something extraordinary!
+Hi! My name is Roberto, I have a Bachelor's Degree in Computer Science, and I am passionate about frontend development and building engaging user experiences. With a sharp eye for design and a passion for clean, efficient code, I specialise in creating seamless web applications and interactive interfaces. I thrive on bringing ideas to life by combining creativity and technical expertise. Whether I'm creating responsive websites, optimising performance, or researching the latest frontend technologies, I'm committed to providing high-quality solutions that exceed expectations. Explore my repositories to view some of my projects, and please contact me if you want to collaborate or have any queries. Let us work together to create something extraordinary!
 
 <h2>🌐 Connect with me:</h2>
 Feel free to explore my repositories and connect with me for collaboration or just to share ideas. Let’s build something amazing together! 🖥️
