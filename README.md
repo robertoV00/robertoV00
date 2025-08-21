@@ -14,7 +14,7 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 ✉️ droz.rv@gmail.com
 <br>
 <br>
-Check out my <a href="https://my-portfolio-alpha-gray-25.vercel.app/#home">my portfolio!</a>
+Check out my <a href="https://exclusive-eportfolio-iota.vercel.app/">my portfolio!</a>
 
 <h2>💻 Tech Stack:</h2>
 <p>
